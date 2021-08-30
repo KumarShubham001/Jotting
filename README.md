@@ -1,2 +1,2 @@
-# Jotting
+# Jottings
 A brief note
